@@ -1,1 +1,35 @@
-/* Start coding here */
+.heading {
+  font-size: 20px;
+  background-color: rgba(14, 83, 193, 0.5);
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.cafehit {
+  background-color: rgba(14, 83, 193, 0.1);
+  font-size: 7px;
+  width: 50vw;
+  border: 2px solid rgb(34, 56, 90);
+  margin-bottom: 10px;
+}
+
+.pic1 {
+  width: 200px;
+  height: 100px;
+  background-color: rgba(30, 71, 137, 0.1);
+  margin-left: 30px;
+}
+
+.niceplace {
+  background-color: rgba(14, 83, 193, 0.1);
+  font-size: 7px;
+  width: 50vw;
+  border: 2px solid rgb(34, 56, 90);
+}
+
+.pic2 {
+  width: 200px;
+  height: 100px;
+  background-color: rgba(30, 71, 137, 0.1);
+  margin-left: 30px;
+}
