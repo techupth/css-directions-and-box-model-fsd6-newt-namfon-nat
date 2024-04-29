@@ -1,1 +1,29 @@
 /* Start coding here */
+* {
+  font-family: "Sarabun";
+}
+h1 {
+  margin: 0;
+  padding: 20px 30px;
+  height: 50px;
+  background-color: rgb(137, 166, 184);
+  color: #032c41;
+}
+.content-box {
+  margin: 40px;
+  padding: 10px 20px;
+  height: 300px;
+  width: 500px;
+  background-color: #bdd0d7;
+  border: 3px solid #032c41;
+  color: #032c41;
+}
+.title {
+  font-size: larger;
+}
+.image {
+  height: 40%;
+  width: 90%;
+  background-color: lightgray;
+  border: 1px solid grey;
+}
