@@ -1,1 +1,20 @@
 /* Start coding here */
+.blog-header {
+  background-color: lightslategray;
+  font-family: sans-serif;
+  padding: 30px;
+}
+
+.recommend-article {
+  background-color: lightgrey;
+  padding: 20px;
+  margin: 20px;
+  border: 3px solid navy;
+}
+
+.blog-topic {
+  color: navy;
+}
+
+.blog-content {
+}
